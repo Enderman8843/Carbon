@@ -1,5 +1,7 @@
 # Carbon 
-Carbon is a air quality analyser that helps us to detect VOC's in Air with the help of BME688 Gas Sensor 
+<img width="1920" height="1080" alt="4A5A74" src="https://github.com/user-attachments/assets/939e52b6-d05a-461b-bc6b-7dc3b4fdc2b5" />
+
+
 
 ## Why did I build this 
 As we know my nations air quality is pretty bad therefore I decided to make a air quality analyser to know the actual depth of this danger specially for my home 
