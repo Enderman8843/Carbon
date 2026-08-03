@@ -6,21 +6,24 @@
 ## Why did I build this 
 As we know my nations air quality is pretty bad therefore I decided to make a air quality analyser to know the actual depth of this danger specially for my home 
 
+## How to Use this 
+First connect this device via usb-c cable to your pc then download the firmware files `Firmware\BUILD` or build them using the ino file in `firmware` wait for sometime as the BME688 needs sometime to stabilize its reading then after that the neopixels will show the color according to the IAQ of your enviroiment (RED = BAD , GREEN = GOOD , AMBER= MODERATE)
 
+*Note the firmware is untested
 
-# PCB Layout
+## PCB Layout
 
 | PCB Layout | Schematic / Wiring |
 | :---------: | :----------------: |
 | <img src="https://github.com/user-attachments/assets/3a73baec-db82-475f-9381-0920083d8412" width="450"> | <img src="https://github.com/user-attachments/assets/8f24f5a3-780d-40a4-96aa-19cd69a7d5e3" width="450"> |
 
-# PCB Render
+## PCB Render
 
 | Front | Rear |
 | :---: | :--: |
 | <img src="https://github.com/user-attachments/assets/26b3396d-0149-4536-a438-afd6405cd3e6" width="450"> | <img src="https://github.com/user-attachments/assets/aec25729-f452-4f14-8cd8-dd5905528815" width="450"> |
 
-# Case
+## Case
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/283e111b-1747-4577-9236-17f08d73c3b3" width="700">
@@ -31,7 +34,7 @@ As we know my nations air quality is pretty bad therefore I decided to make a ai
 
 ---
 
-# BOM
+## BOM
 
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
 |------|-------------|----------|----------------|-----------------|-----|
