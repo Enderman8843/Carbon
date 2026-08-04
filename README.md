@@ -40,8 +40,8 @@ First connect this device via usb-c cable to your pc then download the firmware 
 |------|-------------|----------|----------------|-----------------|-----|
 | PCBA | Custom PCB Manufacturing (JLCPCB) | 1 | 49.35 | 49.35 | https://jlcpcb.com |
 | Case | 3D Printed Case (Will be Printed Myself | 1 | 0.00 | 0.00 | https://hackclub.com |
-| ESP-32 C6 Mini-1 | MCU |1 | 4.47 | https://www.digikey.in/en/products/detail/espressif-systems/ESP32-C6-MINI-1-N4/17885796 |
-| BME688 | VOC sensor | 1 | 9 | https://www.digikey.in/en/products/detail/bosch-sensortec/BME688/13681261|
+| ESP-32 C6 Mini-1 | MCU |1 | 4.47 | 4.47 |  https://www.digikey.in/en/products/detail/espressif-systems/ESP32-C6-MINI-1-N4/17885796 |
+| BME688 | VOC sensor | 1 | 9 |  9  | https://www.digikey.in/en/products/detail/bosch-sensortec/BME688/13681261|
 | **TOTAL** |  |  |  | **63.00** |  |
 
 # JLCPCB and Shipping
