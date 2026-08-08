@@ -11,6 +11,11 @@ First connect this device via usb-c cable to your pc then download the firmware 
 
 *Note the firmware is untested
 
+
+## Working 
+This takes the reading of the Bosch IAQ sensor and the temperature sensor to give accurate condition of the enviroiment 
+
+
 ## PCB Layout
 
 | PCB Layout | Schematic / Wiring |
